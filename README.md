@@ -3,18 +3,18 @@
 
 ### Approach
 
-The promotion code is validated by checking whether it exists in both data sources.
+- The promotion code is validated by checking whether it exists in both data sources.
 
-Each file is processed line by line using streaming.
+- Each file is processed line by line using streaming.
 
-A promotion code is considered eligible only if it appears in both files.
+- A promotion code is considered eligible only if it appears in both files.
 
 
 ### Data Structures Used
 
-No in-memory data structures are used.
+- No in-memory data structures are used.
 
-The implementation relies on file streaming (`File.ReadLines`) to avoid loading large files into memory.
+- The implementation relies on file streaming (`File.ReadLines`) to avoid loading large files into memory.
 
 
 ### Performance Considerations
