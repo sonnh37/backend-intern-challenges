@@ -1,0 +1,6 @@
+@BackendInternChallenges.API_HostAddress = http://localhost:5207
+
+GET {{BackendInternChallenges.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

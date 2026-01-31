@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendInternChallenges.Service", "BackendInternChallenges.Service\BackendInternChallenges.Service.csproj", "{07409C3F-6142-4567-AB75-F79C5F7E260B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendInternChallenges.Domain", "BackendInternChallenges.Domain\BackendInternChallenges.Domain.csproj", "{76DFA6CC-47C3-4FE1-B94A-3C0734579F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendInternChallenges.API", "BackendInternChallenges.API\BackendInternChallenges.API.csproj", "{3EE85062-1DE3-4472-8A4F-5FAB563F0E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07409C3F-6142-4567-AB75-F79C5F7E260B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07409C3F-6142-4567-AB75-F79C5F7E260B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07409C3F-6142-4567-AB75-F79C5F7E260B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07409C3F-6142-4567-AB75-F79C5F7E260B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DFA6CC-47C3-4FE1-B94A-3C0734579F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DFA6CC-47C3-4FE1-B94A-3C0734579F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DFA6CC-47C3-4FE1-B94A-3C0734579F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DFA6CC-47C3-4FE1-B94A-3C0734579F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE85062-1DE3-4472-8A4F-5FAB563F0E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE85062-1DE3-4472-8A4F-5FAB563F0E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE85062-1DE3-4472-8A4F-5FAB563F0E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE85062-1DE3-4472-8A4F-5FAB563F0E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
